@@ -11,6 +11,6 @@ After downloading and [installing](https://docs.anaconda.com/anaconda/install/),
 ```sh
 conda upgrade conda
 conda update --all
-conda install pytorch torchvision -c pytorch
+conda install pytorch torchvision torchtext torchaudio -c pytorch
 conda install -c conda-forge awscli 
 ```
