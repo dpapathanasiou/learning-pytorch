@@ -12,5 +12,6 @@ After downloading and [installing](https://docs.anaconda.com/anaconda/install/),
 conda upgrade conda
 conda update --all
 conda install pytorch torchvision torchtext torchaudio -c pytorch
+conda install tensorboard
 conda install -c conda-forge awscli 
 ```
